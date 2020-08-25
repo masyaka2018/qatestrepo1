@@ -8,6 +8,6 @@ properties([
   stage("Stage1")
   {
       // something went wrong, but it isn't catastrophic...
-	  currentBuild.result = '${NOT_BUILD}'
+	  currentBuild.result = "${NOT_BUILD}"
   }
 }

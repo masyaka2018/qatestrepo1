@@ -2,7 +2,7 @@ node()
 {
 properties([
    parameters([
-    string(name: 'SUCCESS', defaultValue: 'SUCCESS')
+    string(name: 'SUCCESS', defaultValue: '')
     ])
    ])
   stage("Stage1")

@@ -7,3 +7,4 @@ node()
   }
 }
 test1
+test2

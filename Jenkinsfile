@@ -23,6 +23,7 @@ pipeline {
                 echo 'Deploy step'
                 echo 'job is running'
                  echo 'job is running .....'
+                echo 'job is running .....1111'
             }
         }
     }

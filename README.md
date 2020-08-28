@@ -29,6 +29,4 @@ java -jar target/helloworld-1.0-SNAPSHOT.jar
 ````
 
 Editing readme file -2  FDP!
-test1
-test2
-test3
+

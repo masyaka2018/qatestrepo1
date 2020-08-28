@@ -6,5 +6,3 @@ node()
 	  currentBuild.result = 'SUCCESS'
   }
 }
-
-test1

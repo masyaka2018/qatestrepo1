@@ -21,6 +21,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploy step'
+                echo 'job is running'
             }
         }
     }

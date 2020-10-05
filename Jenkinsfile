@@ -26,6 +26,8 @@ pipeline {
                 echo 'job is running .....1111'
                 echo 'job is running .....11112222'
                 echo 'job is running .....111122223333'
+                echo 'job is running .....111122223333'
+                echo 'job is running .....111122223333'
             }
         }
     }

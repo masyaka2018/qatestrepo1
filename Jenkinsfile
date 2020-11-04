@@ -10,7 +10,4 @@ node()
       // something went wrong, but it isn't catastrophic...
 	  currentBuild.result = "${UNSTABLE}"
   }
-  stage("PBA"){
-       cloudBeesFlowRunPipeline addParam: '{"pipeline":{"pipelineName":"qe pipeline name","parameters":[]}}', configuration: 'flow-server', pipelineName: 'qe pipeline name', projectName: 'qe proj'
-  }
 }
